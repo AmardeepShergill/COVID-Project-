@@ -6,7 +6,7 @@ import plotly.graph_objs as go
 
 -- for working with date and time 
 from datetime import datetime
-    
+       
 
 ## Trend Analysis
 -- How have confirmed cases, deaths, and recoveries trended over time globally and for specific countries?
